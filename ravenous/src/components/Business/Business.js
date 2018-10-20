@@ -38,3 +38,5 @@ const business = {
   rating: 4.5,
   reviewCount: 90
 };
+
+export default Business;
