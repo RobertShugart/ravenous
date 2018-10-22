@@ -31,7 +31,10 @@ class SearchBar extends React.Component {
         <div className="SearchBar-submit">
           <a>Let's Go</a>
         </div>
-      </div
-  );
+      </div>
+    );
   }
+
 }
+
+export default SearchBar;
